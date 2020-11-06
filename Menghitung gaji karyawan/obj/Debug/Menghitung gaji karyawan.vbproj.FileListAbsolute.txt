@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Menghitung gaji karyawan\obj\Debug\Menghitung gaji karyawan.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\Menghitung gaji karyawan\obj\Debug\Menghitung_gaji_karyawan.Form1.resources
+C:\Users\User\Desktop\Menghitung gaji karyawan\obj\Debug\Menghitung_gaji_karyawan.Resources.resources
+C:\Users\User\Desktop\Menghitung gaji karyawan\obj\Debug\Menghitung gaji karyawan.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Menghitung gaji karyawan\obj\Debug\Menghitung gaji karyawan.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Menghitung gaji karyawan", "Menghitung gaji karyawan.vbproj", "{475A9BAD-7D5B-4267-AE94-52F1894840F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{475A9BAD-7D5B-4267-AE94-52F1894840F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475A9BAD-7D5B-4267-AE94-52F1894840F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475A9BAD-7D5B-4267-AE94-52F1894840F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475A9BAD-7D5B-4267-AE94-52F1894840F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {334B7153-1EDD-4642-933E-4E4CEB672923}
+	EndGlobalSection
+EndGlobal
